@@ -1,10 +1,10 @@
 {
-    "development": {
-      "username": "admin",
-      "password": "Poipet2019",
-      "database": "tester",
-      "host": "alphabet-testing-db.cyz0ih8xcjat.ap-southeast-1.rds.amazonaws.com",
-      "dialect": "mysql",
-      "operatorsAliases": false
-    }
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "botak",
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false
   }
+}
